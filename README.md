@@ -7,8 +7,8 @@ Loomiee is a real-time multi-user media synchronization application where users 
 ## 🔗 Repositories
 | Component  | Repository Link |
 |------------|----------------|
-| Frontend   | https://github.com/deep231iw/loomie-frontend.git |
-| Backend    | https://github.com/deep231iw/loomie-backend.git |
+| Frontend   | https://github.com/deep231w/Loomie-frontend.git |
+| Backend    | https://github.com/deep231w/Loomie-backend.git |
 
 ---
 
@@ -33,7 +33,6 @@ Loomiee is a real-time multi-user media synchronization application where users 
 ## 📸 Screenshots
 
 Room View  
-*(Add your screenshot image in `/screenshots/room-view.png`)*  
 ![Room UI](./screenshots/room-ui.png)
 
 
@@ -51,5 +50,5 @@ Room View
 
 ```bash
 # clone repos
-git clone https://github.com/deep231iw/loomie-frontend.git
-git clone https://github.com/deep231iw/loomie-backend.git
+git clone https://github.com/deep231w/Loomie-frontend.git
+git clone https://github.com/deep231w/Loomie-backend.git
